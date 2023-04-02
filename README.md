@@ -38,8 +38,8 @@ data contains two columns source and destination eac edge in graph
 - Hits score
 - Singular Value Decompostion
 - Weight features
-- Preferential Attachment (``ASSIGNMENT``)
-- SVD_dot (``ASSIGNMENT``)
+- Preferential Attachment 
+- SVD_dot
 ![image1](https://drive.google.com/uc?export=view&id=1u4fb0Za2v3_E2Hdw4G8w_MJVuzTxCJ4X)
 
 ### Models
@@ -51,7 +51,7 @@ data contains two columns source and destination eac edge in graph
     Confusion matrix with `TEST` data
     ![Random Test](https://github.com/cjkrn/Friend-Recommendation/blob/main/Final/Random%20Test%20Confusion%20Matrix.png)
 
-- XGBOOST (``ASSIGNMENT``)
+- XGBOOST:- 
 
     Confusion matrix with `TRAIN` data
     ![XGBoost Train](https://github.com/cjkrn/Friend-Recommendation/blob/main/Final/XGBoost%20Train%20Confusion%20Matrix.png)
