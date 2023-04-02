@@ -46,21 +46,21 @@ data contains two columns source and destination eac edge in graph
 - Random forest
 
     Confusion matrix with `TRAIN` data
-    ![image](https://drive.google.com/uc?export=view&id=169SA8mYnt56vPN_CqAp5dT3JPI0xaoGA)
+    ![Random Train](https://github.com/cjkrn/Friend-Recommendation/blob/main/Final/Random%20Train%20Confusion%20Matrix.png)
 
     Confusion matrix with `TEST` data
-    ![image2](https://drive.google.com/uc?export=view&id=1mvkWBM2j-DYLwJBFjsMy0twj2nP7EZLQ)
+    ![Random Test](https://github.com/cjkrn/Friend-Recommendation/blob/main/Final/Random%20Test%20Confusion%20Matrix.png)
 
 - XGBOOST (``ASSIGNMENT``)
 
     Confusion matrix with `TRAIN` data
-    ![image3](https://drive.google.com/uc?export=view&id=18TtClD7xivpcGmCfgdq43RQU0EqAWFf1)
+    ![XGBoost Train](https://github.com/cjkrn/Friend-Recommendation/blob/main/Final/XGBoost%20Train%20Confusion%20Matrix.png)
 
     Confusion matrix with `TEST` data
-    ![image](https://drive.google.com/uc?export=view&id=178K0bsNnJ0wOwiIK0ak0CGtx_cq4DGme)
+    ![XGBoost Test](https://github.com/cjkrn/Friend-Recommendation/blob/main/Final/XGBoost%20Test%20Confusion%20Matrix.png)
 
 ### Test result
-![image](https://drive.google.com/drive/folders/1zdq-iN9gph-KS77SHEev0BnG31wG5F6k)
+![Results for Facebook Recommendation System](https://github.com/cjkrn/Friend-Recommendation/blob/main/Final/Facebook%20Friend%20Recommendation%20Results.png)
 
 
 ## Authors
