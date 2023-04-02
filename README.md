@@ -59,10 +59,10 @@ data contains two columns source and destination eac edge in graph
     Confusion matrix with `TEST` data
     ![XGBoost Test](https://github.com/cjkrn/Friend-Recommendation/blob/main/Final/XGBoost%20Test%20Confusion%20Matrix.png)
 
-### Test result
+### Whole Results for all the Models used:-
 ![Results for Facebook Recommendation System](https://github.com/cjkrn/Friend-Recommendation/blob/main/Final/Facebook%20Friend%20Recommendation%20Results.png)
 
 
-## Authors
+## Author
 
 - [Chiranjiv Karning] (https://www.linkedin.com/in/chiranjiv-karning/)
